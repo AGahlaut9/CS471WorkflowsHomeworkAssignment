@@ -1,0 +1,3 @@
+Preferred workflow practice
+Changes are reviewed in a pull request.
+Reviewed changes are combined into one commit.
