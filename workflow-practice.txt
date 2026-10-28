@@ -1,1 +1,2 @@
 Preferred workflow practice
+Changes are reviewed in a pull request.
